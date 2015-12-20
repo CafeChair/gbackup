@@ -1,0 +1,11 @@
+{
+	"script":{
+		"dir":"./script",
+		"logdir":"./logs",
+		"redisaddr":"127.0.0.1:6379"	
+	},
+	"redis":{
+		"addr":"127.0.0.1",
+		"port":"6379"
+	}
+}
